@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.ist-section {
+    background-image: url(images/hat.jpg);
+    height: 109vh;
+    background-size: cover;
+    background-color: #111111;
+    opacity: 0.75;
+    left: 0;
+    margin-bottom: 10%;
+  
+    
+}
+.half-width h1 {
+    font-size: 50px;
+    color: white;
+    
+   
+}
+.half-width p {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 7%;
+   
+    
+}
+
+.half-width a {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    background-color: red;
+    padding: 15px 15px;
+    border-radius: 5px;
+   
+    
+}
+.half-width {
+    padding: 230px;
+    width: 30%;
+ 
+
+}
+
+.section-2 {
+    display:flex;
+    margin-bottom: 10%;
+}
+.halfs-width {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.halfs-width img  {
+    width: 100%;
+}
+.halfs-width h1 {
+  font-size: 50px;
+}
+.halfs-width p {
+    font-size: 20px;
+    margin-bottom: 7%;
+}
+.halfs-width a {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    background-color: red;
+    padding: 15px 15px;
+    border-radius: 5px;
+}
+
+.section-3 {
+    display: flex;
+    margin-bottom: 10%;
+}
+.text {
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.text h1 {
+    font-size: 50px;
+}
+.text p {
+    font-size: 20px;
+}
+.cards {
+    display: flex;
+    margin-top: 5%;
+}
+.card1, .card2  {
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: antiquewhite; 
+    
+}
+
+.card1 img {
+height: 80px;
+
+
+}
+.card2 img {
+    height: 80px;
+    
+    }
+    .cards h1 {
+        font-size: 30px;
+
+    }
+
+.cards p {
+    font-size: 20px;
+}
+.text-help {
+    padding: 5px 25px;
+    padding-bottom: 30px;
+}
+.section-4 {
+    margin-bottom: 10%;
+}
+.section-5 {
+    margin-bottom: 10%;
+    
+}
+
+  
+
+    
