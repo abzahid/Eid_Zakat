@@ -7,11 +7,8 @@ body {
     background-image: url(images/hat.jpg);
     height: 109vh;
     background-size: cover;
-    background-color: #111111;
-    opacity: 0.75;
-    left: 0;
-    margin-bottom: 10%;
-  
+
+
     
 }
 .half-width h1 {
@@ -130,6 +127,73 @@ height: 80px;
     
 }
 
-  
+    
 
+.section-6 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5%;
+    margin-bottom: 10%;
+   
+    
+    
+
+}
+.sunset img {
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.box1 {
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding-bottom: 2%;
+}
+.box1 img {
+    height: 320px;
+    width: 400px;
+}
+.box1 p {
+    font-size: 18px;
+}
+.box1 a {
+    color: red;
+    font-size: 20px;
+    font-weight: 800px;
+}
+.section-7 {
+    margin-bottom: 10%;
+    
+}
+.section-7 p {
+    padding-bottom: 2%;
+}
+h3,p,a {
+    padding: 0 15px;
+}
+.boxes {
+    display: flex;
+    justify-content: space-evenly;
+}
+footer {
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+footer h1 {
+    color:red;
+    text-align: center;
+  
+}
+footer p {
+    color:white;
+    text-align: center;
+   
+}
+.end {
+    padding-top: 50px;
+}
     
